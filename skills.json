@@ -1,0 +1,12 @@
+{
+    "Programming Languages": ["Python", "JavaScript", "Java", "C++", "C#", "Go", "Rust", "Ruby", "Swift", "Kotlin", "TypeScript", "Perl", "Dart", "PHP", "R"],
+    "Web Development": ["HTML", "CSS", "JavaScript", "React", "Vue", "Angular", "Svelte", "Next.js", "Nuxt.js", "Bootstrap", "Tailwind CSS", "SASS", "LESS", "WebAssembly", "GraphQL"],
+    "Backend Development": ["Node.js", "Express.js", "Django", "Flask", "FastAPI", "Spring Boot", "ASP.NET", "Ruby on Rails", "Laravel", "NestJS", "Hapi.js", "Koa.js"],
+    "Databases": ["MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle", "Firebase", "Redis", "Cassandra", "CouchDB", "MariaDB", "DynamoDB", "Neo4j"],
+    "DevOps & Cloud": ["Docker", "Kubernetes", "Terraform", "AWS", "Azure", "Google Cloud", "Jenkins", "GitHub Actions", "Ansible", "CloudFormation", "Vagrant", "CI/CD"],
+    "Data Science & AI": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow", "PyTorch", "Keras", "OpenCV", "Hugging Face", "NLP", "Deep Learning", "Machine Learning", "Data Analysis"],
+    "Cybersecurity": ["Penetration Testing", "Ethical Hacking", "Wireshark", "Burp Suite", "Metasploit", "Kali Linux", "Cyber Threat Intelligence", "SOC", "Firewall Management", "Cryptography"],
+    "Mobile Development": ["Flutter", "React Native", "Swift", "Kotlin", "Xamarin", "Jetpack Compose", "Ionic", "Capacitor", "Cordova"],
+    "Blockchain & Web3": ["Ethereum", "Solidity", "Hyperledger", "Rust", "Polkadot", "Smart Contracts", "NFT Development", "DeFi", "Web3.js", "Hardhat", "Truffle"],
+    "Soft Skills": ["Leadership", "Communication", "Project Management", "Agile", "Scrum", "Problem-Solving", "Critical Thinking", "Emotional Intelligence", "Teamwork", "Time Management"]
+}
