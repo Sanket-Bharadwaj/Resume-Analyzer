@@ -3,3 +3,4 @@ pdfplumber
 python-docx
 fuzzywuzzy
 python-Levenshtein
+gunicorn
