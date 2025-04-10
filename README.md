@@ -47,7 +47,7 @@ resume-analyzer/
 git clone https://github.com/Sanket-Bharadwaj/resume-analyzer.git  
 cd resume-analyzer  
 
-2️⃣ Install Dependencies  
+2️⃣ Install Dependencies
 pip install -r requirements.txt  
 
 3️⃣ Run the Application  
