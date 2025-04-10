@@ -1,8 +1,3 @@
-Got it! Here's your README with **copyable commands and links** using Markdown formatting that GitHub supports — the commands will appear in code blocks with copy buttons when viewed on GitHub:
-
----
-
-```markdown
 # 📝 Resume Analyzer 🚀  
 ### An AI-Powered Resume Screening System  
 
@@ -10,7 +5,7 @@ Got it! Here's your README with **copyable commands and links** using Markdown f
 **Resume Analyzer** is an intelligent resume screening system that extracts key information such as **name, email, phone number, and skills** from resumes.  
 It uses **AI-driven skill matching** to compare resumes against a database of skills and assigns a **matching score** to help recruiters quickly shortlist the best candidates.  
 
-🔗 **Live Demo:** [https://tinyurl.com/resume-analyze](https://tinyurl.com/resume-analyze)
+🔗 **Live Demo:** https://tinyurl.com/resume-analyze  
 
 ---
 
@@ -35,7 +30,6 @@ It uses **AI-driven skill matching** to compare resumes against a database of sk
 
 ## 📂 Project Structure  
 
-```
 resume-analyzer/  
 │── static/             # CSS, JS, images  
 │── templates/          # HTML templates (index.html)  
@@ -44,30 +38,23 @@ resume-analyzer/
 │── skills.json         # Predefined skills list  
 │── resumes.db          # SQLite database  
 │── README.md           # Documentation  
-```
 
 ---
 
 ## 🚀 How to Run Locally  
 
-### 1️⃣ Clone the Repository  
-```bash
+1️⃣ Clone the Repository  
 git clone https://github.com/Sanket-Bharadwaj/resume-analyzer.git  
 cd resume-analyzer  
-```
 
-### 2️⃣ Install Dependencies  
-```bash
+2️⃣ Install Dependencies  
 pip install -r requirements.txt  
-```
 
-### 3️⃣ Run the Application  
-```bash
+3️⃣ Run the Application  
 python app.py  
-```
 
-📍 The app will be live at: [http://127.0.0.1:5000](http://127.0.0.1:5000)  
-🌐 Or try the hosted version here: [https://tinyurl.com/resume-analyze](https://tinyurl.com/resume-analyze)
+The application will start at http://127.0.0.1:5000  
+Or check it live here: https://tinyurl.com/resume-analyze  
 
 ---
 
@@ -76,6 +63,3 @@ python app.py
 📩 Email: sanketbharadwaj15@gmail.com  
 
 Feel free to contribute and improve the project! 🚀  
-```
-
----
