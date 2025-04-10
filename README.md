@@ -4,7 +4,7 @@
 ## 📌 About This Project  
 **Resume Analyzer** is an intelligent resume screening system that extracts key information such as **name, email, phone number, and skills** from resumes. It uses **AI-driven skill matching** to compare resumes against a database of skills and assigns a **matching score** to help recruiters quickly shortlist the best candidates.  
 
-🔗 **Live Demo:** https://tinyurl.com/resume-analyze 
+🔗 **Live Demo:** [https://tinyurl.com/resume-analyze ](https://tinyurl.com/26afwxry)
 
 ---
 
